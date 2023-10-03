@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SeBinHan&fontSize=90&fontAlign=72&desc=FrontEnd&descAlignY=65&descAlign=90)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=CC38F7&width=435&height=70&lines=Hello+My+GitHub+%E2%9C%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=AE2DF7&width=500&height=65&lines=Welcome+to+my+GitHub+%E2%9C%8B)](https://git.io/typing-svg)
 
 ## 🛠️ Tech Stacks 🛠️
 
