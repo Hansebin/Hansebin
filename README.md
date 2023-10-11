@@ -31,7 +31,7 @@
 
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/></a>
 
-## 💾 Tech Stacks 💾
+## 💾 Repositories 💾
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansebin&show_icons=true&theme=tokyonight) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansebin&layout=compact&theme=buefy)
