@@ -31,7 +31,29 @@
 
 </br>
 
-## 💾 Repositories
+## 📟 Projects
+
+<div>
+  <h4>🗳️ 투표 게시글을 업로드하고, 실시간 채팅과 알림 기능을 제공하는 커뮤니티 웹 서비스 "Best-Choice"</h4>
+  - <strong>프로젝트 기간</strong> : 2023.08 ~ 2023.09 </br>
+  - <strong>팀 구성</strong> : 프론트엔드 2명 | 백엔드 2명 (총 4명) </br>
+  - <strong>FE 기술 스택</strong> : TypeScript, React.js, Styled-Compnents, Tailwind.css, Recoil </br>
+  <a href="https://github.com/winnow-2023">🚪 Best-Choice GitHub 방문하기</a> </br>
+  <a href="https://best-choice-steel.vercel.app/">🏠 서비스 이용하기</a>
+</div>
+
+</br>
+
+<div>
+  <h4>💳 송금 및 충전과 지출 차트, 간단한 가계부 작성으로 효율적인 소비 습관을 만들 수 있도록 도와주는 핀테크 서비스 "핀커 : Finca"</h4>
+  - <strong>프로젝트 기간</strong> : 2023.07.03 ~ 2023.07.28 </br>
+  - <strong>팀 구성</strong> : 프론트엔드 1명 (개인 프로젝트) </br>
+  - <strong>FE 기술 스택</strong> : TypeScript, React.js, Styled-Compnents, Tailwind.css, Recoil </br>
+  <a href="https://github.com/Hansebin/front-project">🚪 핀커 : Finca GitHub 방문하기</a> </br>
+  <a href="https://finca-project.vercel.app/">🏠 서비스 이용하기</a> 
+</div>
+
+<!-- ## 💾 Repositories -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansebin&show_icons=true&theme=tokyonight) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansebin&layout=compact&theme=buefy)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansebin&layout=compact&theme=buefy) -->
