@@ -57,9 +57,3 @@
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hansebin&show_icons=true&theme=tokyonight) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hansebin&layout=compact&theme=buefy) -->
-
-</br>
-
-## 👩🏻‍💻 Portfolio
-
-⭐️ <a href="https://unique-oregano-4a0.notion.site/35d77abce0d846309aafbcc6a69d0ccd?pvs=4">포트폴리오 보러 가기!</a>
