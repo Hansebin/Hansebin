@@ -17,7 +17,7 @@
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Figma-7E4DD2?style=for-the-badge&logo=figma&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Figma-E0234E?style=for-the-badge&logo=figma&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-8BC0D0?style=for-the-badge&logo=notion&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Slack-68BC71?style=for-the-badge&logo=slack&logoColor=white"/></a>
 </div>
@@ -27,6 +27,7 @@
 ## 🔎 Studying
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>
 
 </br>
