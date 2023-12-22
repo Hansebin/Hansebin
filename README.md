@@ -35,7 +35,8 @@
 ## 📟 Projects
 
 <div>
-  <h4>🗳️ 투표 게시글을 업로드하고, 실시간 채팅과 알림 기능을 제공하는 커뮤니티 웹 서비스 "Best-Choice"</h4>
+  <h4>🗳️ 투표 게시글을 업로드하고, 실시간 채팅과 알림 기능을 제공하는 커뮤니티 웹 서비스</h4>
+  - <strong>프로젝트 이름</strong> : Best-Choice </br>
   - <strong>프로젝트 기간</strong> : 2023.08 ~ 2023.09 </br>
   - <strong>팀 구성</strong> : 프론트엔드 2명 | 백엔드 2명 (총 4명) </br>
   - <strong>FE 기술 스택</strong> : TypeScript, React.js, Styled-Compnents, Tailwind.css, Recoil </br>
@@ -46,13 +47,32 @@
 </br>
 
 <div>
-  <h4>💳 송금 및 충전과 지출 차트, 간단한 가계부 작성으로 효율적인 소비 습관을 만들 수 있도록 도와주는 핀테크 서비스 "핀커 : Finca"</h4>
+  <h4>💳 송금 및 충전과 지출 차트, 간단한 가계부 작성으로 효율적인 소비 습관을 만들 수 있도록 도와주는 핀테크 서비스</h4>
+  - <strong>프로젝트 이름</strong> : 핀커 : Finca </br>
   - <strong>프로젝트 기간</strong> : 2023.07.03 ~ 2023.07.28 </br>
   - <strong>팀 구성</strong> : 프론트엔드 1명 (개인 프로젝트) </br>
   - <strong>FE 기술 스택</strong> : TypeScript, React.js, Styled-Compnents, Tailwind.css, Recoil </br>
   <a href="https://github.com/Hansebin/front-project">🚪 핀커 : Finca GitHub 방문하기</a> </br>
   <a href="https://finca-project.vercel.app/">🏠 서비스 이용하기</a> 
 </div>
+
+</br>
+
+## Activities
+
+<div>
+  <strong>2022.02 ~ 2022.04 영유아 교육 콘텐츠 개발 기업 마케팅팀 인턴</strong> </br>
+  - 가비아 클라우드 서비스를 활용한 회사 웹 사이트 개선 프로젝트 참여
+</div>
+
+<br />
+
+<div>
+  <strong>2021.06 ~ 2022.01 코딩 교육 콘텐츠 제공 창업동아리 팀원</strong> </br>
+  - *** 고등학교의 프로그래밍 포트폴리오 전시 페스티벌 행사 기획 및 디자인 작업과 프로젝트 리딩
+</div>
+
+
 
 <!-- ## 💾 Repositories -->
 
