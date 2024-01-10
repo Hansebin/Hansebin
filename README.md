@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=SeBinHan&fontSize=90&fontAlign=72&desc=FrontEnd&descAlignY=65&descAlign=90)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=AE2DF7&width=500&height=65&lines=Welcome+to+my+GitHub+%E2%9C%8B)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=AE2DF7&width=500&height=65&lines=Welcome+to+my+GitHub+%E2%9C%8B)](https://git.io/typing-svg)-->
 
 ## 🛠️ Tech Stacks
 
@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 </div>
 <div>
@@ -24,13 +25,12 @@
 
 </br>
 
-## 🔎 Studying
+<!--## 🔎 Studying-->
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>
+<!--<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>-->
+<!--<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/></a>-->
 
-</br>
+<!--</br>-->
 
 ## 📟 Projects
 
@@ -58,7 +58,7 @@
 
 </br>
 
-## Activities
+## 🏷️ Activities
 
 <div>
   <strong>2022.02 ~ 2022.04 영유아 교육 콘텐츠 개발 기업 마케팅팀 인턴</strong> </br>
