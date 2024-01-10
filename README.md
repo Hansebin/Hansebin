@@ -80,7 +80,11 @@
   • OOO고등학교 프로그래밍 포트폴리오 전시 페스티벌 행사 기획 및 디자인 작업과 프로젝트 리딩
 </div>
 
+</br>
 
+<div>
+  <a href="mailto:sebinn052@gmail.com"><img src="https://img.shields.io/badge/-sebinn052@gmail.com-68BC71?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
 <!-- ## 💾 Repositories -->
 
