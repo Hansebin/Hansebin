@@ -2,6 +2,12 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=AE2DF7&width=500&height=65&lines=Welcome+to+my+GitHub+%E2%9C%8B)](https://git.io/typing-svg)-->
 
+- <h4>학부 시절 배운 사용자 편의성과 경험 분석을 기반으로 뛰어난 사용자 경험을 제공하는 웹 개발을 하고 있습니다.</h4>
+- <h4>함께 일하고 싶은 동료가 되기 위해 고민합니다.</h4>
+- <h4>배움을 즐기는 사람입니다.</h4>
+
+</br>
+
 ## 🛠️ Tech Stacks
 
 <div>
@@ -14,6 +20,8 @@
 <div>
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Tailwind.css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white"></a>
 </div>
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
@@ -62,14 +70,14 @@
 
 <div>
   <strong>2022.02 ~ 2022.04 영유아 교육 콘텐츠 개발 기업 마케팅팀 인턴</strong> </br>
-  - 가비아 클라우드 서비스를 활용한 회사 웹 사이트 개선 프로젝트 참여
+  • 가비아 클라우드 서비스를 활용한 회사 웹 사이트 개선 프로젝트 참여
 </div>
 
 <br />
 
 <div>
   <strong>2021.06 ~ 2022.01 코딩 교육 콘텐츠 제공 창업동아리 팀원</strong> </br>
-  - *** 고등학교의 프로그래밍 포트폴리오 전시 페스티벌 행사 기획 및 디자인 작업과 프로젝트 리딩
+  • OOO고등학교 프로그래밍 포트폴리오 전시 페스티벌 행사 기획 및 디자인 작업과 프로젝트 리딩
 </div>
 
 
