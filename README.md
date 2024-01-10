@@ -2,9 +2,9 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=AE2DF7&width=500&height=65&lines=Welcome+to+my+GitHub+%E2%9C%8B)](https://git.io/typing-svg)-->
 
-- <h4>학부 시절 배운 사용자 편의성과 경험 분석을 기반으로 뛰어난 사용자 경험을 제공하는 웹 개발을 하고 있습니다.</h4>
-- <h4>함께 일하고 싶은 동료가 되기 위해 고민합니다.</h4>
-- <h4>배움을 즐기는 사람입니다.</h4>
+- <h3>학부 시절 배운 사용자 편의성과 경험 분석을 기반으로 뛰어난 사용자 경험을 제공하는 웹 개발을 하고 있습니다.</h3>
+- <h3>함께 일하고 싶은 동료가 되기 위해 고민합니다.</h3>
+- <h3>배움을 즐기는 사람입니다.</h3>
 
 </br>
 
