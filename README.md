@@ -67,7 +67,7 @@
 </br>
 
 <div>
-  <h4>🖥️ 개인 to-do-list와 북마크 등의 기능을 제공하는 웹 개인 대시보드</h4>
+  <h4>🖥️ 개인 to-do-list와 북마크 등의 기능을 제공하는 웹 개인 대시보드 서비스</h4>
   - <strong>프로젝트 이름</strong> : DashHub </br>
   - <strong>프로젝트 기간</strong> : 2024.01.28 ~</br>
   - <strong>팀 구성</strong> : 프론트엔드 1명 (개인 프로젝트) </br>
