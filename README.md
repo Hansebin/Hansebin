@@ -66,6 +66,18 @@
 
 </br>
 
+<div>
+  <h4>🖥️ 개인 to-do-list와 북마크 등의 기능을 제공하는 웹 개인 대시보드</h4>
+  - <strong>프로젝트 이름</strong> : DashHub </br>
+  - <strong>프로젝트 기간</strong> : 2024.01.28 ~</br>
+  - <strong>팀 구성</strong> : 프론트엔드 1명 (개인 프로젝트) </br>
+  - <strong>FE 기술 스택</strong> : Javascript, html, css</br>
+  <a href="https://github.com/Hansebin/Vanilla-Javascript-Project-Web-Personal-Dashboard">🚪 DashHub GitHub 방문하기</a> </br>
+  <a href="https://hansebin.github.io/Vanilla-Javascript-Project-Web-Personal-Dashboard/">🏠 서비스 이용하기</a> 
+</div>
+
+</br>
+
 ## 🏷️ Activities
 
 <div>
