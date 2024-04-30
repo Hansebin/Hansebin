@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FA7070&height=300&section=header&text=SeBinHan&fontSize=90&fontColor=FFFFFF&fontAlign=72&desc=FrontEnd&descAlignY=65&descAlign=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BACD92&height=300&section=header&text=SeBinHan&fontSize=90&fontColor=FFFFFF&fontAlign=72&desc=FrontEnd&descAlignY=65&descAlign=90)
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=AE2DF7&width=500&height=65&lines=Welcome+to+my+GitHub+%E2%9C%8B)](https://git.io/typing-svg)-->
 
